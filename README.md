@@ -19,4 +19,7 @@ The project uses the **NYC Taxi dataset**, which is widely used in industry and 
 
 Whether you're preparing for a **data engineering job**, building a **portfolio project**, or simply exploring Databricks and Spark, this project offers a valuable opportunity to gain **hands-on experience with modern industry tools and workflows**.
 
+## About Datasets
 
+- Their are two types of taxi's ecspecially in **NEW YORK CITY(NYC)**. This taxi's are **YELLOW** and **GREEN**.
+- This two datasets are used in this project.
