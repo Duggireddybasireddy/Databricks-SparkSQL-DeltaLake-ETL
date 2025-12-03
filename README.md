@@ -23,3 +23,5 @@ Whether you're preparing for a **data engineering job**, building a **portfolio 
 
 - Their are two types of taxi's ecspecially in **NEW YORK CITY(NYC)**. This taxi's are **YELLOW** and **GREEN**.
 - This two datasets are used in this project.
+- Attributes in YELLOW Taxi dataset is : VendorID, tpep_pickup_datetime, tpep_dropoff_datetime, passenger_count, trip_distance, RateCodeID, store_and_fwd_flag, PULocationID, DOLocationID, payment_type, fare_amount, Extra, mta_tax, tip_amount, tolls_amount, improvement_surcharge, total_amount, congestion_surcharge
+- Attributes in GREEN Taxi dataset is : VendorID, tpep_pickup_datetime, tpep_dropoff_datetime, passenger_count, trip_diatance, RateCodeID, store_and_fwd_flag, PULocationID, DOLocationID, passenger_count, trip_distance, fare_amount, Extra, mta_tax, tip_amount, tolls_amount, ehail_fee, improvement_surchage,total_amount, payment_type, trip_type, congestion_surcharge
