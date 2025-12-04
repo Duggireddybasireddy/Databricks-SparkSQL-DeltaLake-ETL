@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-### This is main Branch
-=======
-#### This file is used to test skills of git conflicts
->>>>>>> modify
