@@ -19,4 +19,61 @@ The project uses the **NYC Taxi dataset**, which is widely used in industry and 
 
 Whether you're preparing for a **data engineering job**, building a **portfolio project**, or simply exploring Databricks and Spark, this project offers a valuable opportunity to gain **hands-on experience with modern industry tools and workflows**.
 
+## About the Datasets
 
+<<<<<<< HEAD
+- Their are two types of taxi's ecspecially in **NEW YORK CITY(NYC)**. This taxi's are **YELLOW** and **GREEN**.
+- This two datasets are used in this project.
+- Attributes in YELLOW Taxi dataset is : VendorID, tpep_pickup_datetime, tpep_dropoff_datetime, passenger_count, trip_distance, RateCodeID, store_and_fwd_flag, PULocationID, DOLocationID, payment_type, fare_amount, Extra, mta_tax, tip_amount, tolls_amount, improvement_surcharge, total_amount, congestion_surcharge
+- Attributes in GREEN Taxi dataset is : VendorID, tpep_pickup_datetime, tpep_dropoff_datetime, passenger_count, trip_diatance, RateCodeID, store_and_fwd_flag, PULocationID, DOLocationID, passenger_count, trip_distance, fare_amount, Extra, mta_tax, tip_amount, tolls_amount, ehail_fee, improvement_surchage,total_amount, payment_type, trip_type, congestion_surcharge
+=======
+There are two types of taxis commonly operating in **New York City (NYC)**: **Yellow Taxis** and **Green Taxis**.  
+Both datasets are used in this project.
+
+---
+
+### Yellow Taxi Dataset — Attributes
+
+- `VendorID`
+- `tpep_pickup_datetime`
+- `tpep_dropoff_datetime`
+- `passenger_count`
+- `trip_distance`
+- `RateCodeID`
+- `store_and_fwd_flag`
+- `PULocationID`
+- `DOLocationID`
+- `payment_type`
+- `fare_amount`
+- `extra`
+- `mta_tax`
+- `tip_amount`
+- `tolls_amount`
+- `improvement_surcharge`
+- `total_amount`
+- `congestion_surcharge`
+
+---
+
+### Green Taxi Dataset — Attributes
+
+- `VendorID`
+- `lpep_pickup_datetime`
+- `lpep_dropoff_datetime`
+- `passenger_count`
+- `trip_distance`
+- `RateCodeID`
+- `store_and_fwd_flag`
+- `PULocationID`
+- `DOLocationID`
+- `fare_amount`
+- `extra`
+- `mta_tax`
+- `tip_amount`
+- `tolls_amount`
+- `ehail_fee`
+- `improvement_surcharge`
+- `total_amount`
+- `payment_type`
+- `trip_type`
+- `congestion_surcharge`
