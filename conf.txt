@@ -1,0 +1,2 @@
+#### This file is used to test skills of git conflicts
+- New File is added by modify branch
